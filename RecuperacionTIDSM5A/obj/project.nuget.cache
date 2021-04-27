@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj23HNpqvkEPOGybB3MsueZIp6ZjWTnqg9ZGt44yU2lxi6gO4u8UFHwUcshBQtxztAVlUmar25liCLLfI0afxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OITTTIIA\\Recuperacion\\RecuperacionTIDSM5A\\RecuperacionTIDSM5A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\OITTTIIA\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
